@@ -1,0 +1,11 @@
+.btn-danger {
+  float: right;
+}
+
+.todo {
+  line-height: 38px;
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+}
